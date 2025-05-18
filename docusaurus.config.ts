@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const title = 'T1';
-const organizationName = '';
+const organizationName = 'neldivad';
 const projectName = 't1.github.io';
 const deploymentBranch = 'gh-pages';
 const tagline = "Hi, dinosaurs suck";
