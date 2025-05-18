@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkt_1=self.webpackChunkt_1||[]).push([[9815],{6652:t=>{t.exports=JSON.parse('{"metadata":{"permalink":"/t1.github.io/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
